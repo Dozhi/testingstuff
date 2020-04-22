@@ -1,0 +1,12 @@
+{
+	"userConfiguration":[
+		{
+			"clientId":"",
+			"clientSecret":"",
+			"tenantId":"",
+			"resource":"",
+			"subscriptionId":"",
+			"loginUrl":""
+		}
+	]
+}
